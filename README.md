@@ -8,4 +8,6 @@ Deploying production ready CI/CD pipeline Using Jenkins, GIT, Maven, Tomcat, Jun
 2. GIT - Done
 3. Maven - Done
 4. Tomcat - Done
-Next-> 
+5. Ansible - Done
+6. Docker - Done
+Next ->
